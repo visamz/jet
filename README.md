@@ -1,6 +1,6 @@
-# Jet Template Engine for Go [![Build Status](https://travis-ci.org/CloudyKit/jet.svg?branch=master)](https://travis-ci.org/CloudyKit/jet) [![Build status](https://ci.appveyor.com/api/projects/status/5g4whw3c6518vvku?svg=true)](https://ci.appveyor.com/project/CloudyKit/jet)
+# This is a backup of [jet v2.1.3-0.20180809161101](https://github.com/CloudyKit/jet/tree/e766b8f6e0b56e67d43a69acaa6cee2dda85131c)
 
-[![Join the chat at https://gitter.im/CloudyKit/jet](https://badges.gitter.im/CloudyKit/jet.svg)](https://gitter.im/CloudyKit/jet)
+## Jet Template Engine for Go 
 
 Jet is a template engine developed to be easy to use, powerful, dynamic, yet secure and very fast.
 
